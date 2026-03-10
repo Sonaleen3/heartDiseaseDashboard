@@ -16,3 +16,4 @@ A ribbon chart is included to highlight ranking changes among different categori
 Together, these visualizations provide a comprehensive overview of heart disease data, enabling better insights and supporting data-driven decision-making. The dashboard is designed to be user-friendly, interactive, and effective in presenting complex health data in a clear and meaningful way.
 
 Screenshot:
+https://github.com/Sonaleen3/heartDiseaseDashboard/blob/main/heartDiseaseDashboard.png
